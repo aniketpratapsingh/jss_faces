@@ -1,19 +1,5 @@
 <?php
 
-/*
- * Title: Facemash-Alike Script
- * Author: Anders Moefelt / http://moefelt.dk
- * Version: 1.0
- * 
- * Great resources:
- *
- * 1) http://www.jasonhuber.net/the-social-network-rating-formula-elo/
- * 2) http://www.imdb.com/title/tt1285016/
- * 3) http://en.wikipedia.org/wiki/Mark_Zuckerberg
- * 4) http://www.facebook.com/markzuckerberg
- *
- * Performance rating = [(Total of opponents' ratings + 400 * (Wins - Losses)) / score].
- */
 
 include('mysql.php');
 include('functions.php');
