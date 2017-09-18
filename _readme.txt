@@ -1,14 +1,4 @@
-Hi,
 
-Thanks for downloading this script.
-
-It's sole purpose is having fun - and learning by doing.
-
-I would probably never had come across the ELO rating system if it hadn't been for Marc Zuckerberg
-and the movie: The social network. Great movie and a lot of fun and inspiration!
-
-The script is not really in a production state and there is plenty room for improvement (if you make any
-just mail me so I can update the source with your addons).
 
 To get you going:
 
@@ -39,9 +29,7 @@ To get you going:
 6) have fun!
 
 
-Best regards from Denmark,
 
-/Anders
 
 
 
